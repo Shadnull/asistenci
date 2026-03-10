@@ -1,0 +1,43 @@
+{
+  "grupo": "IA-51",
+  "materia": "Visión por Computadora",
+  "fecha": "2026-03-10",
+  "asistencia_general": "Positiva",
+  "alumnos": [
+    {
+      "nombre": "Donnovan Joel Creano Rodriguez",
+      "asistencia": true,
+      "estado": "Presente"
+    },
+    {
+      "nombre": "Rodrigo Ortega Andrade",
+      "asistencia": true,
+      "estado": "Presente"
+    },
+    {
+      "nombre": "Bernal Loma José Angel",
+      "asistencia": true,
+      "estado": "Presente"
+    },
+    {
+      "nombre": "Arce Armenta Fernando De Jesús",
+      "asistencia": true,
+      "estado": "Presente"
+    },
+    {
+      "nombre": "Ulises de jesus gongora pacheco",
+      "asistencia": true,
+      "estado": "Presente"
+    },
+    {
+      "nombre": "Diego Alejandro Durán Tapia",
+      "asistencia": true,
+      "estado": "Presente"
+    },
+    {
+      "nombre": "Johan Fernando sierra López",
+      "asistencia": true,
+      "estado": "Presente"
+    }
+  ]
+}
